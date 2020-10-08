@@ -7,3 +7,5 @@ This is the first step to my thesis
 make changes on this version
 
 one more change
+
+This change is for Github
